@@ -1,0 +1,371 @@
+[
+  {
+    "timestamp": "2026-11-01 22:04",
+    "topic": "plant disease detection using deep learning",
+    "papers": [
+      {
+        "title": "ScienceDirect Integrated Leaf Disease Recognition Across Diverse Crops through Transfer Learning Utkarsh Yashwant Tambe *, Dr. A. Shanthini , Pao-Ann Hsiung",
+        "year": "2024"
+      },
+      {
+        "title": "light-weight learning-based architecture detection",
+        "year": "2023"
+      },
+      {
+        "title": "Transfer learning for versatile plant disease recognition with&nbsp;limited data",
+        "year": "2022"
+      },
+      {
+        "title": "Plant Disease Identification Using a Novel Convolutional Neural Network",
+        "year": "2021"
+      }
+    ],
+    "literature": [
+      {
+        "paper": "ScienceDirect Integrated Leaf Disease Recognition Across Diverse Crops through Transfer Learning Utkarsh Yashwant Tambe *, Dr. A. Shanthini , Pao-Ann Hsiung (2024)",
+        "advantages": "The proposed LeafDoc-Net architecture effectively addresses challenges in plant disease detection without requiring leaf segmentation, offering a cost-effective, fast, and efficient solution for farmers. It demonstrates superior performance across accuracy, precision, recall, and AUC metrics on diverse datasets including cassava and wheat diseases by leveraging DenseNets to improve feature reuse and mitigate vanishing gradients.",
+        "limitations": "Pre-trained models encountered significant underfitting issues when dealing with restricted numbers of complex images. Additionally, certain plant diseases lack well-defined boundaries, blending with healthy tissue, which complicates identification. Low-resolution capturing devices in field settings also impose limitations on practical implementation.",
+        "tools_technologies": "Deep Learning algorithms, DenseNets, MobileNetv2, Transfer Learning, Computer Vision, PlantCLEF2022 dataset"
+      },
+      {
+        "paper": "light-weight learning-based architecture detection (2023)",
+        "advantages": "Transfer learning is verified as an effective and efficient method to mitigate the challenge of limited data in achieving desired recognition accuracy. The approach focuses on versatile plant disease recognition across multiple datasets rather than restricting focus to one or two specific ones.",
+        "limitations": "Most proposed methods currently focus on only one or two specific datasets, limiting generalizability. Small-size images may incur challenges as disease phenomena are not clear enough. Increasing data volume is recognized as a limitation for practical applications due to resource constraints.",
+        "tools_technologies": "Transfer Learning, PlantCLEF2022 dataset, AI Challenger dataset, Computer Vision"
+      },
+      {
+        "paper": "Transfer learning for versatile plant disease recognition with&nbsp;limited data (2022)",
+        "advantages": "Not clearly stated in the paper",
+        "limitations": "Not clearly stated in the paper",
+        "tools_technologies": "Not clearly stated in the paper"
+      },
+      {
+        "paper": "Plant Disease Identification Using a Novel Convolutional Neural Network (2021)",
+        "advantages": "Not clearly stated in the paper",
+        "limitations": "Not clearly stated in the paper",
+        "tools_technologies": "Not clearly stated in the paper"
+      }
+    ],
+    "evidence": [
+      {
+        "Paper Title": "ScienceDirect Integrated Leaf Disease Recognition Across Diverse Crops through Transfer Learning Utkarsh Yashwant Tambe *, Dr. A. Shanthini , Pao-Ann Hsiung",
+        "Year": "2024",
+        "Page": 2,
+        "Category": "Future Work",
+        "Evidence": "Finally, the work is concluded and future research directions are covered in Section 6.",
+        "Review Status": "Needs verification"
+      },
+      {
+        "Paper Title": "ScienceDirect Integrated Leaf Disease Recognition Across Diverse Crops through Transfer Learning Utkarsh Yashwant Tambe *, Dr. A. Shanthini , Pao-Ann Hsiung",
+        "Year": "2024",
+        "Page": 2,
+        "Category": "Challenges",
+        "Evidence": "Previous Research in this Field Deep learning has shown great potential for revolutionizing agriculture by providing accurate, efficient, and automated solutions to a wide range of challenges faced by farmers and agricultural researchers.",
+        "Review Status": "Needs verification"
+      },
+      {
+        "Paper Title": "ScienceDirect Integrated Leaf Disease Recognition Across Diverse Crops through Transfer Learning Utkarsh Yashwant Tambe *, Dr. A. Shanthini , Pao-Ann Hsiung",
+        "Year": "2024",
+        "Page": 4,
+        "Category": "Challenges",
+        "Evidence": "These class imbalances can pose a challenge for learning algorithms, which may struggle to accurately classify less-represented classes and also is depicted in fig.",
+        "Review Status": "Needs verification"
+      },
+      {
+        "Paper Title": "ScienceDirect Integrated Leaf Disease Recognition Across Diverse Crops through Transfer Learning Utkarsh Yashwant Tambe *, Dr. A. Shanthini , Pao-Ann Hsiung",
+        "Year": "2024",
+        "Page": 5,
+        "Category": "Future Work",
+        "Evidence": "These pie charts provide valuable insights into the composition of the dataset and can help guide future research and analysis.",
+        "Review Status": "Needs verification"
+      },
+      {
+        "Paper Title": "ScienceDirect Integrated Leaf Disease Recognition Across Diverse Crops through Transfer Learning Utkarsh Yashwant Tambe *, Dr. A. Shanthini , Pao-Ann Hsiung",
+        "Year": "2024",
+        "Page": 12,
+        "Category": "Future Work",
+        "Evidence": "Conclusion and Future Research Work Plant infections are the primary impediment to the evolution of agriculture worldwide because they have a detrimental effect on how safely food is produced.",
+        "Review Status": "Needs verification"
+      },
+      {
+        "Paper Title": "ScienceDirect Integrated Leaf Disease Recognition Across Diverse Crops through Transfer Learning Utkarsh Yashwant Tambe *, Dr. A. Shanthini , Pao-Ann Hsiung",
+        "Year": "2024",
+        "Page": 12,
+        "Category": "Limitations",
+        "Evidence": "However, it's crucial to understand that the model have limitations in certain situations, such as when there are multiple leaves present in an image.",
+        "Review Status": "Needs verification"
+      },
+      {
+        "Paper Title": "ScienceDirect Integrated Leaf Disease Recognition Across Diverse Crops through Transfer Learning Utkarsh Yashwant Tambe *, Dr. A. Shanthini , Pao-Ann Hsiung",
+        "Year": "2024",
+        "Page": 12,
+        "Category": "Limitations",
+        "Evidence": "This shows the limitations of the model and needs to be overcome.",
+        "Review Status": "Needs verification"
+      },
+      {
+        "Paper Title": "ScienceDirect Integrated Leaf Disease Recognition Across Diverse Crops through Transfer Learning Utkarsh Yashwant Tambe *, Dr. A. Shanthini , Pao-Ann Hsiung",
+        "Year": "2024",
+        "Page": 12,
+        "Category": "Limitations",
+        "Evidence": "This limitation could be addressed in future research by exploring ways to improve the model's capacity to differentiate leaves affected with different diseases and multiple leaves in an image.",
+        "Review Status": "Needs verification"
+      },
+      {
+        "Paper Title": "light-weight learning-based architecture detection",
+        "Year": "2023",
+        "Page": 2,
+        "Category": "Challenges",
+        "Evidence": "1 Introduction The increasing global population and the subsequent rise in the demand for agricultural products have posed growing challenges to the role of agriculture in advancing sustainable development (Wang et al., 2022) and guaranteeing global food security.",
+        "Review Status": "Needs verification"
+      },
+      {
+        "Paper Title": "light-weight learning-based architecture detection",
+        "Year": "2023",
+        "Page": 2,
+        "Category": "Challenges",
+        "Evidence": "The issue of food security (Wang et al., 2022), both at the local and global level (Eunice et al., 2022), is a signiﬁcant and fundamental challenge that must be addressed to achieve sustainable human development (Mustak Un Nobi et al., 2023).",
+        "Review Status": "Needs verification"
+      },
+      {
+        "Paper Title": "light-weight learning-based architecture detection",
+        "Year": "2023",
+        "Page": 2,
+        "Category": "Challenges",
+        "Evidence": "The task of classifying plant leaf diseases presents signiﬁcant challenges due to the presence of high inter-class similarities and complicated pattern variations.",
+        "Review Status": "Needs verification"
+      },
+      {
+        "Paper Title": "light-weight learning-based architecture detection",
+        "Year": "2023",
+        "Page": 3,
+        "Category": "Challenges",
+        "Evidence": "Certain plant diseases lack well-deﬁned boundaries and can instead blend with healthy leaf tissue, posing a challenge for their identiﬁcation using current techniques.",
+        "Review Status": "Needs verification"
+      },
+      {
+        "Paper Title": "light-weight learning-based architecture detection",
+        "Year": "2023",
+        "Page": 3,
+        "Category": "Limitations",
+        "Evidence": "Therefore, developing a comprehensive classiﬁcation system is imperative to overcome these limitations effectively.",
+        "Review Status": "Needs verification"
+      },
+      {
+        "Paper Title": "light-weight learning-based architecture detection",
+        "Year": "2023",
+        "Page": 3,
+        "Category": "Challenges",
+        "Evidence": "In order to tackle these challenges, the agricultural sector has employed advanced DL algorithms.",
+        "Review Status": "Needs verification"
+      },
+      {
+        "Paper Title": "light-weight learning-based architecture detection",
+        "Year": "2023",
+        "Page": 3,
+        "Category": "Limitations",
+        "Evidence": "In practical implementations of disease detection in ﬁeld settings, it is imperative to consider the limitations imposed by low-resolution capturing devices.",
+        "Review Status": "Needs verification"
+      },
+      {
+        "Paper Title": "light-weight learning-based architecture detection",
+        "Year": "2023",
+        "Page": 5,
+        "Category": "Challenges",
+        "Evidence": "This research presents a solution to the various challenges associated with plant disease without leaf segmentation, making the proposed framework cost-effective, fast, and efﬁcient for farmers.",
+        "Review Status": "Needs verification"
+      },
+      {
+        "Paper Title": "light-weight learning-based architecture detection",
+        "Year": "2023",
+        "Page": 6,
+        "Category": "Limitations",
+        "Evidence": "Some pre-trained models encountered a signiﬁcant issue of underﬁtting, representing signiﬁcant limitations of the base models.",
+        "Review Status": "Needs verification"
+      },
+      {
+        "Paper Title": "light-weight learning-based architecture detection",
+        "Year": "2023",
+        "Page": 6,
+        "Category": "Limitations",
+        "Evidence": "DenseNets are designed to address some of the shortcomings of traditional CNN architectures, such as VGG and ResNet, by encouraging feature reuse, addressing the vanishing gradient issue, and improving model compactness.",
+        "Review Status": "Needs verification"
+      },
+      {
+        "Paper Title": "light-weight learning-based architecture detection",
+        "Year": "2023",
+        "Page": 17,
+        "Category": "Challenges",
+        "Evidence": "Each image presents a unique set of challenges, including variations in rotation and background.",
+        "Review Status": "Needs verification"
+      },
+      {
+        "Paper Title": "light-weight learning-based architecture detection",
+        "Year": "2023",
+        "Page": 18,
+        "Category": "Challenges",
+        "Evidence": "Nevertheless, it was noted that every model, including DenseNet121 and MobileNetv2, experienced underﬁtting challenges when dealing with a restricted number of complex images from the datasets.",
+        "Review Status": "Needs verification"
+      },
+      {
+        "Paper Title": "light-weight learning-based architecture detection",
+        "Year": "2023",
+        "Page": 18,
+        "Category": "Challenges",
+        "Evidence": "To address these particular challenges, we proposed a solution known as LeafDoc-Net within the context of this study.",
+        "Review Status": "Needs verification"
+      },
+      {
+        "Paper Title": "light-weight learning-based architecture detection",
+        "Year": "2023",
+        "Page": 18,
+        "Category": "Future Work",
+        "Evidence": "6 Conclusion and the future work Plants have an unparalleled connection with every living creature, primarily due to their crucial role in survival and ﬁnances.",
+        "Review Status": "Needs verification"
+      },
+      {
+        "Paper Title": "light-weight learning-based architecture detection",
+        "Year": "2023",
+        "Page": 19,
+        "Category": "Challenges",
+        "Evidence": "LeafDoc-Net effectively addressed these challenges and demonstrated superior performance to existing models regarding the accuracy, precision, recall, and area under the curve (AUC) performance metrics across the two datasets encompassing cassava, and wheat leaf diseases.",
+        "Review Status": "Needs verification"
+      },
+      {
+        "Paper Title": "light-weight learning-based architecture detection",
+        "Year": "2023",
+        "Page": 19,
+        "Category": "Future Work",
+        "Evidence": "Although the LeafDoc-Net architecture demonstrated encouraging outcomes in generic leaf disease detection, further investigation is necessary to enhance and expand the abilities of leaf disease detection models within a more comprehensive framework.",
+        "Review Status": "Needs verification"
+      },
+      {
+        "Paper Title": "light-weight learning-based architecture detection",
+        "Year": "2023",
+        "Page": 19,
+        "Category": "Future Work",
+        "Evidence": "Our possible research attempts will go deeply into further investigation of optimization techniques like increasing model complexity, variation in regularization, learning rate, optimizer, and loss function to mitigate the problems of overﬁtting and underﬁtting and will be implemented into the proposed architecture.",
+        "Review Status": "Needs verification"
+      },
+      {
+        "Paper Title": "Transfer learning for versatile plant disease recognition with&nbsp;limited data",
+        "Year": "2022",
+        "Page": 1,
+        "Category": "Challenges",
+        "Evidence": "Hence, the limited data is one of the main challenges to getting the desired recognition accuracy.",
+        "Review Status": "Needs verification"
+      },
+      {
+        "Paper Title": "Transfer learning for versatile plant disease recognition with&nbsp;limited data",
+        "Year": "2022",
+        "Page": 1,
+        "Category": "Challenges",
+        "Evidence": "Although transfer learning is heavily discussed and veriﬁed as an effective and efﬁcient method to mitigate the challenge, most proposed methods focus on one or two speciﬁc datasets.",
+        "Review Status": "Needs verification"
+      },
+      {
+        "Paper Title": "Transfer learning for versatile plant disease recognition with&nbsp;limited data",
+        "Year": "2022",
+        "Page": 2,
+        "Category": "Challenges",
+        "Evidence": "1 Introduction Keeping plants healthy is one of the essential challenges to having an expected and high yield.",
+        "Review Status": "Needs verification"
+      },
+      {
+        "Paper Title": "Transfer learning for versatile plant disease recognition with&nbsp;limited data",
+        "Year": "2022",
+        "Page": 2,
+        "Category": "Challenges",
+        "Evidence": "Although the challenge of a limited dataset is considered in many works, most of them merely focus on one or few speciﬁc datasets, such as the PlantVillage dataset (Mohanty et al., 2016; Too et al., 2019; Li and Chao, 2021), AI Challenger dataset (Zhao et al., 2022), tomato dataset (Xu et al., 2022b), wheat and rice dataset (Sethy et al., 2020; Rahman et al., 2020), cucumber (Wang et al., 2022), and apple leaf disease dataset (Fan et al., 2022).",
+        "Review Status": "Needs verification"
+      },
+      {
+        "Paper Title": "Transfer learning for versatile plant disease recognition with&nbsp;limited data",
+        "Year": "2022",
+        "Page": 3,
+        "Category": "Challenges",
+        "Evidence": "height and width, may incur challenges for recognition tasks as the disease phenomenon may not be clear enough in small-size images.",
+        "Review Status": "Needs verification"
+      },
+      {
+        "Paper Title": "Transfer learning for versatile plant disease recognition with&nbsp;limited data",
+        "Year": "2022",
+        "Page": 4,
+        "Category": "Challenges",
+        "Evidence": "2.2 PlantCLEF2022 dataset PlantCLEF20226 was originally a challenge to identify the plant species based on their images.",
+        "Review Status": "Needs verification"
+      },
+      {
+        "Paper Title": "Transfer learning for versatile plant disease recognition with&nbsp;limited data",
+        "Year": "2022",
+        "Page": 4,
+        "Category": "Challenges",
+        "Evidence": "6 https://www.aicrowd.com/challenges/lifeclef-2022-plant Xu et al.",
+        "Review Status": "Needs verification"
+      },
+      {
+        "Paper Title": "Transfer learning for versatile plant disease recognition with&nbsp;limited data",
+        "Year": "2022",
+        "Page": 6,
+        "Category": "Challenges",
+        "Evidence": "We highlight that the second step is outlined and trained in our previous paper (Xu et al., 2022c) for the PlantCLEF2022 challenge and thus is not outlined and trained in this paper.",
+        "Review Status": "Needs verification"
+      },
+      {
+        "Paper Title": "Transfer learning for versatile plant disease recognition with&nbsp;limited data",
+        "Year": "2022",
+        "Page": 11,
+        "Category": "Challenges",
+        "Evidence": "3.2.3 Discussion Limited data is one main challenge in achieving high performance in the computer vision ﬁeld (Xu et al., 2022a) and plant disease recognition(Lu et al.,2022; Xu et al.,2022b).",
+        "Review Status": "Needs verification"
+      },
+      {
+        "Paper Title": "Transfer learning for versatile plant disease recognition with&nbsp;limited data",
+        "Year": "2022",
+        "Page": 11,
+        "Category": "Limitations",
+        "Evidence": "Therefore, recognizing the limitation of increasing data is also essential for practical applications.",
+        "Review Status": "Needs verification"
+      },
+      {
+        "Paper Title": "Transfer learning for versatile plant disease recognition with&nbsp;limited data",
+        "Year": "2022",
+        "Page": 14,
+        "Category": "Challenges",
+        "Evidence": "Thapa,R.,Wang,Q.,Snavely,N.,Belongie,S.,andKhan,A.(2021).Theplantpathology 2021 challenge dataset to classify foliar disease of apples.",
+        "Review Status": "Needs verification"
+      },
+      {
+        "Paper Title": "Transfer learning for versatile plant disease recognition with&nbsp;limited data",
+        "Year": "2022",
+        "Page": 14,
+        "Category": "Challenges",
+        "Evidence": "The plant pathology challenge 2020 data set to classify foliar disease of apples.",
+        "Review Status": "Needs verification"
+      },
+      {
+        "Paper Title": "Plant Disease Identification Using a Novel Convolutional Neural Network",
+        "Year": "2021",
+        "Page": 1,
+        "Category": "Challenges",
+        "Evidence": "Timely and early identiﬁcation of disease symptoms is a major challenge in protecting crops.",
+        "Review Status": "Needs verification"
+      },
+      {
+        "Paper Title": "Plant Disease Identification Using a Novel Convolutional Neural Network",
+        "Year": "2021",
+        "Page": 11,
+        "Category": "Future Work",
+        "Evidence": "Another future work includes the identiﬁcation of plant diseases with different plant disease datasets with a different variety of images, different geo- graphical regions.",
+        "Review Status": "Needs verification"
+      }
+    ],
+    "research_gap": "Current plant disease detection models struggle with underfitting on complex datasets and lack robustness when dealing with low-resolution field images or diseases lacking clear boundaries. Most existing transfer learning approaches are restricted to specific datasets like PlantVillage, failing to generalize across diverse crops such as cassava and wheat simultaneously. There is a critical need for architectures that can handle limited data scenarios without relying heavily on leaf segmentation while maintaining high accuracy in real-world agricultural settings.",
+    "problem_statement": "The global demand for agricultural products poses significant challenges to food security and sustainable development, exacerbated by the difficulty of accurately identifying plant diseases in field conditions. Current deep learning models often suffer from underfitting when processing complex or limited datasets and fail to perform optimally with low-resolution images common in practical applications. Furthermore, many existing systems require leaf segmentation, adding complexity and cost, while most transfer learning solutions are narrowly tailored to specific datasets rather than offering versatile recognition across diverse crops. Developing a comprehensive, efficient framework capable of distinguishing diseases without segmentation under data constraints remains an urgent requirement for advancing agricultural sustainability.",
+    "future_directions": [
+      "Investigate optimization techniques such as increased model complexity and varied regularization strategies to mitigate overfitting and underfitting issues.",
+      "Expand the proposed architecture to handle a broader range of crops and disease types without relying on leaf segmentation.",
+      "Develop robust methods for improving model performance when utilizing low-resolution images captured in field settings."
+    ]
+  }
+]
